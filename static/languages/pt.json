@@ -1,11 +1,13 @@
 {
-  "title": "Para onde vamos nas férias?",
-  "subtitle": "Em toda a UE, 53,3% das viagens com duração superior a quatro noites foram viagens domésticas. A Grécia registou a percentagem mais elevada, com 85,6%, seguida da Roménia (77,9%). O Luxemburgo teve a percentagem mais baixa, com 1,9%.",
+  "title": "Quem fica no próprio país durante as férias?",
+  "subtitle": "Em toda a UE, 53,3% das viagens com duração superior a quatro noites foram viagens domésticas. A Grécia apresentou a maior proporção dessas viagens (85,6%), seguida pela Romênia (77,9%). Luxemburgo teve a menor proporção, com 1,9%.",
   "textNoteDescription": "Observação",
   "textNote": "Este mapa visualiza a proporção de viagens domésticas entre todas as viagens pessoais com duração de quatro noites ou mais.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
   "extraInfo_BE": "Total de viagens: 11.671.223; participação doméstica: 11,25%",
   "extraInfo_BG": "Total de viagens: 2.351.877; participação doméstica: 66,25%",
   "extraInfo_CZ": "Total de viagens: 12.167.776; participação doméstica: 52,99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Total de viagens: 4.637.001; participação doméstica: 39,69%",
   "extraInfo_FI": "Total de viagens: 9.956.219; participação doméstica: 62,72%",
   "extraInfo_SE": "Total de viagens: 25.281.134; participação doméstica: 52,96%",
-  "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "de todas as viagens",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "customUnitLabel": "de todas as viagens"
 }

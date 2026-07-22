@@ -1,11 +1,13 @@
 {
-  "title": "Hvor tager vi hen på ferie?",
-  "subtitle": "I hele EU var 53,3 % af rejserne, der varede mere end fire nætter, indenrigs. Grækenland registrerede den højeste andel med 85,6 %, efterfulgt af Rumænien (77,9 %). Luxembourg havde den laveste andel med 1,9 %.",
+  "title": "Hvem bliver i deres eget land i ferien?",
+  "subtitle": "I hele EU var 53,3 % af rejserne, der varede mere end fire nætter, indenrigs. Grækenland havde den højeste andel af disse rejser (85,6 %), efterfulgt af Rumænien (77,9 %). Luxembourg havde den laveste andel med 1,9 %.",
   "textNoteDescription": "Note",
   "textNote": "Dette kort visualiserer andelen af indenrigsrejser blandt alle private rejser med en varighed på fire nætter eller mere.",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her",
   "extraInfo_BE": "Samlet antal ture: 11.671.223; indenrigsandel: 11,25%",
   "extraInfo_BG": "Samlet antal ture: 2.351.877; indenrigsandel: 66,25%",
   "extraInfo_CZ": "Samlet antal ture: 12.167.776; indenrigsandel: 52,99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Samlet antal ture: 4.637.001; indenrigsandel: 39,69%",
   "extraInfo_FI": "Samlet antal ture: 9.956.219; indenrigsandel: 62,72%",
   "extraInfo_SE": "Samlet antal ture: 25.281.134; indenrigsandel: 52,96%",
-  "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "af alle ture",
-  "tooltipExtraInfoLabel": "Klik her"
+  "customUnitLabel": "af alle ture"
 }

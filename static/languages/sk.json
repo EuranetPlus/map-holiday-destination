@@ -1,11 +1,13 @@
 {
-  "title": "Kam pôjdeme na dovolenku?",
-  "subtitle": "V celej EÚ bolo 53,3 % ciest trvajúcich viac ako štyri noci vnútroštátnych. Najvyšší podiel zaznamenalo Grécko s 85,6 %, nasledované Rumunskom (77,9 %). Luxembursko malo najnižší podiel s 1,9 %.",
+  "title": "Kto zostáva počas sviatkov vo svojej vlastnej krajine?",
+  "subtitle": "V celej EÚ bolo 53,3 % ciest trvajúcich viac ako štyri noci v rámci krajiny. Najvyšší podiel týchto ciest malo Grécko (85,6 %), nasledované Rumunskom (77,9 %). Luxembursko malo najnižší podiel s 1,9 %.",
   "textNoteDescription": "Poznámka",
   "textNote": "Táto mapa zobrazuje podiel domácich ciest medzi všetkými súkromnými cestami trvajúcimi štyri alebo viac nocí.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
+  "legend1": "Nie sú k dispozícii žiadne údaje",
+  "tooltipExtraInfoLabel": "Kliknite sem",
   "extraInfo_BE": "Celkový počet ciest: 11 671 223; podiel vnútroštátnych ciest: 11,25 %",
   "extraInfo_BG": "Celkový počet ciest: 2 351 877; podiel vnútroštátnych ciest: 66,25 %",
   "extraInfo_CZ": "Celkový počet ciest: 12 167 776; podiel vnútroštátnych ciest: 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Celkový počet ciest: 4 637 001; podiel vnútroštátnych ciest: 39,69 %",
   "extraInfo_FI": "Celkový počet ciest: 9 956 219; podiel vnútroštátnych ciest: 62,72 %",
   "extraInfo_SE": "Celkový počet ciest: 25 281 134; podiel vnútroštátnych ciest: 52,96 %",
-  "legend1": "Nie sú k dispozícii žiadne údaje",
-  "customUnitLabel": "všetkých ciest",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "customUnitLabel": "všetkých ciest"
 }

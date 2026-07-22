@@ -1,11 +1,13 @@
 {
-  "title": "Kurp mēs dosimies brīvdienās?",
-  "subtitle": "Visā ES 53,3 % ceļojumu, kas ilga vairāk nekā četras naktis, bija iekšzemes ceļojumi. Grieķijā bija visaugstākais īpatsvars — 85,6 %, kam sekoja Rumānija (77,9 %). Viszemākais īpatsvars bija Luksemburgā — 1,9 %.",
+  "title": "Kurš svētku laikā paliek savā valstī?",
+  "subtitle": "Visā ES 53,3 % ceļojumu, kas ilga vairāk nekā četras naktis, bija iekšzemes ceļojumi. Vislielākais šādu ceļojumu īpatsvars bija Grieķijā (85,6 %), kam sekoja Rumānija (77,9 %). Viszemākais īpatsvars bija Luksemburgā — 1,9 %.",
   "textNoteDescription": "Piezīme",
   "textNote": "Šajā kartē ir attēlota iekšzemes ceļojumu daļa no visiem personīgajiem ceļojumiem, kas ilgst četras vai vairāk naktis.",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
   "extraInfo_BE": "Kopējais braucienu skaits: 11 671 223; vietējie pārvadājumi: 11,25 %",
   "extraInfo_BG": "Kopējais braucienu skaits: 2 351 877; vietējie braucieni: 66,25 %",
   "extraInfo_CZ": "Kopējais braucienu skaits: 12 167 776; vietējie pārvadājumi: 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Kopējais braucienu skaits: 4 637 001; vietējie pārvadājumi: 39,69 %",
   "extraInfo_FI": "Kopējais braucienu skaits: 9 956 219; vietējie pārvadājumi: 62,72 %",
   "extraInfo_SE": "Kopējais braucienu skaits: 25 281 134; vietējie pārvadājumi: 52,96 %",
-  "legend1": "Dati nav pieejami",
-  "customUnitLabel": "no visiem braucieniem",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "customUnitLabel": "no visiem braucieniem"
 }

@@ -1,11 +1,13 @@
 {
-  "title": "Kur mes einame atostogauti?",
-  "subtitle": "Visoje ES 53,3 % kelionių, trukusių ilgiau nei keturias naktis, buvo vietinės. Didžiausia dalis užfiksuota Graikijoje – 85,6 %, po jos seka Rumunija (77,9 %). Mažiausia dalis užfiksuota Liuksemburge – 1,9 %.",
+  "title": "Kas per šventes lieka savo šalyje?",
+  "subtitle": "Visoje ES 53,3 % kelionių, trukusių ilgiau nei keturias naktis, buvo vietinės. Didžiausia tokių kelionių dalis buvo Graikijoje (85,6 %), po jos sekė Rumunija (77,9 %). Mažiausia dalis buvo Liuksemburge – 1,9 %.",
   "textNoteDescription": "Pastaba",
   "textNote": "Šiame žemėlapyje vizualizuojama vietinių kelionių dalis, palyginti su visomis asmeninėmis kelionėmis, trunkančiomis keturias naktis ar ilgiau.",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas (2026 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
+  "legend1": "Nėra duomenų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
   "extraInfo_BE": "Iš viso kelionių: 11 671 223; vietinių kelionių dalis: 11,25 %",
   "extraInfo_BG": "Iš viso kelionių: 2 351 877; vietinių kelionių dalis: 66,25 %",
   "extraInfo_CZ": "Iš viso kelionių: 12 167 776; vietinių kelionių dalis: 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Iš viso kelionių: 4 637 001; vietinių kelionių dalis: 39,69 %",
   "extraInfo_FI": "Iš viso kelionių: 9 956 219; vietinių kelionių dalis: 62,72 %",
   "extraInfo_SE": "Iš viso kelionių: 25 281 134; vietinių kelionių dalis: 52,96 %",
-  "legend1": "Nėra duomenų",
-  "customUnitLabel": "visų kelionių",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "customUnitLabel": "visų kelionių"
 }

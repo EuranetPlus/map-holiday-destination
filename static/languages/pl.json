@@ -1,11 +1,13 @@
 {
-  "title": "Gdzie jedziemy na wakacje?",
-  "subtitle": "W całej UE 53,3% podróży trwających dłużej niż cztery noce stanowiły podróże krajowe. Najwyższy odsetek odnotowała Grecja – 85,6%, a następnie Rumunia (77,9%). Najniższy odsetek odnotowano w Luksemburgu – 1,9%.",
+  "title": "Kto zostaje w swoim kraju podczas świąt?",
+  "subtitle": "W całej UE 53,3% podróży trwających dłużej niż cztery noce stanowiły podróże krajowe. Najwyższy odsetek tych podróży odnotowano w Grecji (85,6%), a następnie w Rumunii (77,9%). Najniższy odsetek odnotowano w Luksemburgu – 1,9%.",
   "textNoteDescription": "Notatka",
   "textNote": "Mapa przedstawia udział podróży krajowych wśród wszystkich podróży prywatnych trwających cztery noce lub dłużej.",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostęp do danych",
+  "legend1": "Brak dostępnych danych",
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
   "extraInfo_BE": "Łączna liczba podróży: 11 671 223; udział krajowy: 11,25%",
   "extraInfo_BG": "Łączna liczba podróży: 2 351 877, udział krajowy: 66,25%",
   "extraInfo_CZ": "Łączna liczba podróży: 12 167 776; udział krajowy: 52,99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Łączna liczba podróży: 4 637 001; udział krajowy: 39,69%",
   "extraInfo_FI": "Łączna liczba podróży: 9 956 219; udział krajowy: 62,72%",
   "extraInfo_SE": "Łączna liczba podróży: 25 281 134; udział krajowy: 52,96%",
-  "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "wszystkich podróży",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "customUnitLabel": "wszystkich podróży"
 }

@@ -1,11 +1,13 @@
 {
-  "title": "Where do we go for holiday?",
-  "subtitle": "Across the EU, 53.3% of trips lasting more than four nights were domestic. Greece recorded the highest share at 85.6%, followed by Romania (77.9%). Luxembourg had the lowest share at 1.9%.",
+  "title": "Who stays in their own country during the holidays?",
+  "subtitle": "Across the EU, 53.3% of trips lasting more than four nights were domestic. Greece had the highest proportion of these trips (85.6%), followed by Romania (77.9%). Luxembourg had the lowest proportion at 1.9%.",
   "textNoteDescription": "Note",
   "textNote": "This map visualizes the share of domestic trips among all personal trips lasting four nights or more.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
+  "legend1": "No data available",
+  "tooltipExtraInfoLabel": "Click here",
   "extraInfo_BE": "Total trips: 11,671,223; domestic share: 11.25%",
   "extraInfo_BG": "Total trips: 2,351,877; domestic share: 66.25%",
   "extraInfo_CZ": "Total trips: 12,167,776; domestic share: 52.99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Total trips: 4,637,001; domestic share: 39.69%",
   "extraInfo_FI": "Total trips: 9,956,219; domestic share: 62.72%",
   "extraInfo_SE": "Total trips: 25,281,134; domestic share: 52.96%",
-  "legend1": "No data available",
-  "customUnitLabel": "of all trips",
-  "tooltipExtraInfoLabel": "Click here"
+  "customUnitLabel": "of all trips"
 }

@@ -1,11 +1,13 @@
 {
-  "title": "Minne menemme lomalle?",
-  "subtitle": "Koko EU:ssa 53,3 % yli neljä yötä kestäneistä matkoista oli kotimaanmatkoja. Kreikassa osuus oli suurin, 85,6 %, ja seuraavaksi eniten Romaniassa (77,9 %). Luxemburgissa osuus oli pienin, 1,9 %.",
+  "title": "Ketkä pysyvät kotimaassaan lomien aikana?",
+  "subtitle": "Koko EU:ssa 53,3 % yli neljä yötä kestäneistä matkoista oli kotimaanmatkoja. Kreikassa näiden matkojen osuus oli suurin (85,6 %) ja seuraavaksi suurin Romaniassa (77,9 %). Luxemburgissa osuus oli pienin, 1,9 %.",
   "textNoteDescription": "Huomautus",
   "textNote": "Tämä kartta visualisoi kotimaanmatkojen osuuden kaikista vähintään neljä yötä kestävistä yksityismatkoista.",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
   "extraInfo_BE": "Matkamäärä yhteensä: 11 671 223; kotimaan osuus: 11,25 %",
   "extraInfo_BG": "Matkamäärä yhteensä: 2 351 877; kotimaan osuus: 66,25 %",
   "extraInfo_CZ": "Matkamäärä yhteensä: 12 167 776; kotimaan osuus: 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Matkamäärä yhteensä: 4 637 001; kotimaan osuus: 39,69 %",
   "extraInfo_FI": "Matkamäärä yhteensä: 9 956 219; kotimaan osuus: 62,72 %",
   "extraInfo_SE": "Matkamäärä yhteensä: 25 281 134; kotimaan osuus: 52,96 %",
-  "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "kaikista matkoista",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "customUnitLabel": "kaikista matkoista"
 }

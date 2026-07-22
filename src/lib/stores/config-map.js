@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
-  "title": "Where do we go for holiday?",
-  "subtitle": "Across the EU, 53.3% of trips lasting more than four nights were domestic. Greece recorded the highest share at 85.6%, followed by Romania (77.9%). Luxembourg had the lowest share at 1.9%.",
+  "title": "Who stays in their own country during the holidays?",
+  "subtitle": "Across the EU, 53.3% of trips lasting more than four nights were domestic. Greece had the highest proportion of these trips (85.6%), followed by Romania (77.9%). Luxembourg had the lowest proportion at 1.9%.",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nBelgium,BE,0.1125,false,\"Total trips: 11,671,223; domestic share: 11.25%\",,,,,,,,\nBulgaria,BG,0.6625,false,\"Total trips: 2,351,877; domestic share: 66.25%\",,,,,,,,\nCzechia,CZ,0.5299,false,\"Total trips: 12,167,776; domestic share: 52.99%\",,,,,,,,\nDenmark,DK,0.3241,false,\"Total trips: 11,191,065; domestic share: 32.41%\",,,,,,,,\nGermany,DE,0.3734,false,\"Total trips: 135,078,849; domestic share: 37.34%\",,,,,,,,\nEstonia,EE,0.2530,false,\"Total trips: 1,094,007; domestic share: 25.30%\",,,,,,,,\nIreland,IE,0.2170,false,\"Total trips: 8,966,008; domestic share: 21.70%\",,,,,,,,\nGreece,EL,0.8564,false,\"Total trips: 5,303,934; domestic share: 85.64%\",,,,,,,,\nSpain,ES,0.7621,false,\"Total trips: 47,029,820; domestic share: 76.21%\",,,,,,,,\nFrance,FR,0.7695,false,\"Total trips: 91,461,943; domestic share: 76.95%\",,,,,,,,\nCroatia,HR,0.6520,false,\"Total trips: 2,499,322; domestic share: 65.20%\",,,,,,,,\nItaly,IT,0.7060,false,\"Total trips: 23,500,636; domestic share: 70.60%\",,,,,,,,\nCyprus,CY,0.2095,false,\"Total trips: 1,488,999; domestic share: 20.95%\",,,,,,,,\nLatvia,LV,0.2514,false,\"Total trips: 1,224,599; domestic share: 25.14%\",,,,,,,,\nLithuania,LT,0.2498,false,\"Total trips: 1,788,942; domestic share: 24.98%\",,,,,,,,\nLuxembourg,LU,0.0193,false,\"Total trips: 1,742,959; domestic share: 1.93%\",,,,,,,,\nHungary,HU,0.3922,false,\"Total trips: 6,706,689; domestic share: 39.22%\",,,,,,,,\nMalta,MT,0.1129,false,\"Total trips: 585,268; domestic share: 11.29%\",,,,,,,,\nNetherlands,NL,0.2590,false,\"Total trips: 23,395,258; domestic share: 25.90%\",,,,,,,,\nAustria,AT,0.2796,false,\"Total trips: 13,097,050; domestic share: 27.96%\",,,,,,,,\nPoland,PL,0.6580,false,\"Total trips: 31,796,761; domestic share: 65.80%\",,,,,,,,\nPortugal,PT,0.6980,false,\"Total trips: 6,099,841; domestic share: 69.80%\",,,,,,,,\nRomania,RO,0.7789,false,\"Total trips: 8,702,271; domestic share: 77.89%\",,,,,,,,\nSlovenia,SI,0.1824,false,\"Total trips: 2,836,347; domestic share: 18.24%\",,,,,,,,\nSlovakia,SK,0.3969,false,\"Total trips: 4,637,001; domestic share: 39.69%\",,,,,,,,\nFinland,FI,0.6272,false,\"Total trips: 9,956,219; domestic share: 62.72%\",,,,,,,,\nSweden,SE,0.5296,false,\"Total trips: 25,281,134; domestic share: 52.96%\",,,,,,,,",
   "parsedData": [
@@ -438,8 +439,8 @@ export const mapConfig = writable({
   "customUnitLabel": "of all trips",
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
-    "title": "Where do we go for holiday?",
-    "subtitle": "Across the EU, 53.3% of trips lasting more than four nights were domestic. Greece recorded the highest share at 85.6%, followed by Romania (77.9%). Luxembourg had the lowest share at 1.9%.",
+    "title": "Who stays in their own country during the holidays?",
+    "subtitle": "Across the EU, 53.3% of trips lasting more than four nights were domestic. Greece had the highest proportion of these trips (85.6%), followed by Romania (77.9%). Luxembourg had the lowest proportion at 1.9%.",
     "textNoteDescription": "Note",
     "textNote": "This map visualizes the share of domestic trips among all personal trips lasting four nights or more.",
     "textSourceDescription": "Source",

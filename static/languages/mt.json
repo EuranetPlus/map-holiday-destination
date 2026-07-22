@@ -1,11 +1,13 @@
 {
-  "title": "Fejn immorru għall-vaganza?",
-  "subtitle": "Madwar l-UE, 53.3% tal-vjaġġi li damu aktar minn erba’ ljieli kienu domestiċi. Il-Greċja rreġistrat l-ogħla sehem b’85.6%, segwita mir-Rumanija (77.9%). Il-Lussemburgu kellu l-inqas sehem b’1.9%.",
+  "title": "Min joqgħod f'pajjiżu matul il-vaganzi?",
+  "subtitle": "Madwar l-UE, 53.3% tal-vjaġġi li damu aktar minn erba’ ljieli kienu domestiċi. Il-Greċja kellha l-ogħla proporzjon ta’ dawn il-vjaġġi (85.6%), segwita mir-Rumanija (77.9%). Il-Lussemburgu kellu l-inqas proporzjon b’1.9%.",
   "textNoteDescription": "Nota",
   "textNote": "Din il-mappa turi s-sehem ta' vjaġġi domestiċi fost il-vjaġġi personali kollha li jdumu erba' iljieli jew aktar.",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat (2026)",
   "linkDataAccessDescription": "Aċċessa d-dejta",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
   "extraInfo_BE": "Vjaġġi totali: 11,671,223; sehem domestiku: 11.25%",
   "extraInfo_BG": "Vjaġġi totali: 2,351,877; sehem domestiku: 66.25%",
   "extraInfo_CZ": "Vjaġġi totali: 12,167,776; sehem domestiku: 52.99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Vjaġġi totali: 4,637,001; sehem domestiku: 39.69%",
   "extraInfo_FI": "Vjaġġi totali: 9,956,219; sehem domestiku: 62.72%",
   "extraInfo_SE": "Vjaġġi totali: 25,281,134; sehem domestiku: 52.96%",
-  "legend1": "L-ebda dejta disponibbli",
-  "customUnitLabel": "tal-vjaġġi kollha",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "customUnitLabel": "tal-vjaġġi kollha"
 }

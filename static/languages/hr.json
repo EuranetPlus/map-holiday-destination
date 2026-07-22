@@ -1,11 +1,13 @@
 {
-  "title": "Gdje idemo na odmor?",
-  "subtitle": "Diljem EU-a, 53,3% putovanja duljih od četiri noći bila su domaća. Grčka je zabilježila najveći udio s 85,6%, a slijedi Rumunjska (77,9%). Luksemburg je imao najmanji udio s 1,9%.",
+  "title": "Tko ostaje u svojoj zemlji tijekom praznika?",
+  "subtitle": "Diljem EU-a, 53,3% putovanja duljih od četiri noći bila su domaća. Grčka je imala najveći udio tih putovanja (85,6%), a slijedi Rumunjska (77,9%). Luksemburg je imao najmanji udio s 1,9%.",
   "textNoteDescription": "Bilješka",
   "textNote": "Ova karta vizualizira udio domaćih putovanja među svim osobnim putovanjima koja traju četiri ili više noći.",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat (2026.)",
   "linkDataAccessDescription": "Pristup podacima",
+  "legend1": "Nema dostupnih podataka",
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
   "extraInfo_BE": "Ukupno putovanja: 11.671.223; domaći udio: 11,25%",
   "extraInfo_BG": "Ukupno putovanja: 2.351.877; domaći udio: 66,25%",
   "extraInfo_CZ": "Ukupno putovanja: 12.167.776; domaći udio: 52,99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Ukupno putovanja: 4.637.001; domaći udio: 39,69%",
   "extraInfo_FI": "Ukupno putovanja: 9.956.219; domaći udio: 62,72%",
   "extraInfo_SE": "Ukupno putovanja: 25.281.134; domaći udio: 52,96%",
-  "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "svih putovanja",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "customUnitLabel": "svih putovanja"
 }

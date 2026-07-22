@@ -1,11 +1,13 @@
 {
-  "title": "Wohin fahren wir in Urlaub?",
-  "subtitle": "EU-weit entfielen 53,3 % der Reisen mit einer Dauer von mehr als vier Übernachtungen auf Inlandsreisen. Griechenland verzeichnete mit 85,6 % den höchsten Anteil, gefolgt von Rumänien (77,9 %). Luxemburg hatte mit 1,9 % den niedrigsten Anteil.",
+  "title": "Wer bleibt denn schon während der Feiertage im eigenen Land?",
+  "subtitle": "EU-weit entfielen 53,3 % der Reisen mit einer Dauer von mehr als vier Übernachtungen auf Inlandsreisen. Griechenland verzeichnete den höchsten Anteil (85,6 %), gefolgt von Rumänien (77,9 %). Luxemburg hatte mit 1,9 % den niedrigsten Anteil.",
   "textNoteDescription": "Notiz",
   "textNote": "Diese Karte veranschaulicht den Anteil der Inlandsreisen an allen privaten Reisen mit einer Dauer von vier oder mehr Nächten.",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "legend1": "Keine Daten verfügbar",
+  "tooltipExtraInfoLabel": "klicken Sie hier",
   "extraInfo_BE": "Gesamtzahl der Reisen: 11.671.223; Anteil Inlandsreisen: 11,25 %",
   "extraInfo_BG": "Gesamtzahl der Reisen: 2.351.877; Anteil Inlandsreisen: 66,25 %",
   "extraInfo_CZ": "Gesamtzahl der Reisen: 12.167.776; Anteil Inlandsreisen: 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Gesamtzahl der Reisen: 4.637.001; Anteil Inlandsreisen: 39,69 %",
   "extraInfo_FI": "Gesamtzahl der Reisen: 9.956.219; Anteil Inlandsreisen: 62,72 %",
   "extraInfo_SE": "Gesamtzahl der Reisen: 25.281.134; Anteil Inlandsreisen: 52,96 %",
-  "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "alle Reisen",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "customUnitLabel": "alle Reisen"
 }

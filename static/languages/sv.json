@@ -1,11 +1,13 @@
 {
-  "title": "Vart ska vi åka på semester?",
-  "subtitle": "I hela EU var 53,3 % av resorna som varade längre än fyra nätter inrikes. Grekland hade den högsta andelen med 85,6 %, följt av Rumänien (77,9 %). Luxemburg hade den lägsta andelen med 1,9 %.",
+  "title": "Vem stannar i sitt eget land under semestern?",
+  "subtitle": "I hela EU var 53,3 % av resorna som varade längre än fyra nätter inrikes. Grekland hade den högsta andelen av dessa resor (85,6 %), följt av Rumänien (77,9 %). Luxemburg hade den lägsta andelen med 1,9 %.",
   "textNoteDescription": "Notera",
   "textNote": "Denna karta visualiserar andelen inrikesresor av alla privatresor som varar fyra nätter eller mer.",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Åtkomst till data",
+  "legend1": "Inga data tillgängliga",
+  "tooltipExtraInfoLabel": "Klicka här",
   "extraInfo_BE": "Totalt antal resor: 11 671 223; inrikes andel: 11,25 %",
   "extraInfo_BG": "Totalt antal resor: 2 351 877; inrikes andel: 66,25 %",
   "extraInfo_CZ": "Totalt antal resor: 12 167 776; inrikes andel: 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Totalt antal resor: 4 637 001; inrikes andel: 39,69 %",
   "extraInfo_FI": "Totalt antal resor: 9 956 219; inrikes andel: 62,72 %",
   "extraInfo_SE": "Totalt antal resor: 25 281 134; inrikes andel: 52,96 %",
-  "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "av alla resor",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "customUnitLabel": "av alla resor"
 }

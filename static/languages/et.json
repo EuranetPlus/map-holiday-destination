@@ -1,11 +1,13 @@
 {
-  "title": "Kuhu me puhkusele läheme?",
-  "subtitle": "Kogu ELis oli 53,3% enam kui nelja ööbimisega reisidest siseriiklikud. Suurim osakaal oli Kreekas, 85,6%, millele järgnes Rumeenia (77,9%). Väikseim osakaal oli Luksemburgis, 1,9%.",
+  "title": "Kes jääb pühade ajal oma kodumaale?",
+  "subtitle": "Kogu ELis oli 53,3% enam kui nelja ööbimisega reisidest siseriiklikud. Suurim osakaal oli Kreekas (85,6%), järgnes Rumeenia (77,9%). Madalaim osakaal oli Luksemburgis (1,9%).",
   "textNoteDescription": "Märkus",
   "textNote": "See kaart visualiseerib siseriiklike reiside osakaalu kõigist neli või enam ööd kestvatest isiklikest reisidest.",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
   "extraInfo_BE": "Reiside koguarv: 11 671 223; kodumaiste lendude osakaal: 11,25%",
   "extraInfo_BG": "Reiside koguarv: 2 351 877; kodumaiste lendude osakaal: 66,25%",
   "extraInfo_CZ": "Reiside koguarv: 12 167 776; kodumaiste lendude osakaal: 52,99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Reiside koguarv: 4 637 001; kodumaiste lendude osakaal: 39,69%",
   "extraInfo_FI": "Reiside koguarv: 9 956 219; kodumaiste lendude osakaal: 62,72%",
   "extraInfo_SE": "Reiside koguarv: 25 281 134; kodumaiste lendude osakaal: 52,96%",
-  "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "kõigist reisidest",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "customUnitLabel": "kõigist reisidest"
 }

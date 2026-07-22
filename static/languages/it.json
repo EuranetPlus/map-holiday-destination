@@ -1,11 +1,13 @@
 {
-  "title": "Dove andiamo in vacanza?",
-  "subtitle": "Nell'UE, il 53,3% dei viaggi di durata superiore a quattro notti è stato di tipo nazionale. La Grecia ha registrato la quota più alta, pari all'85,6%, seguita dalla Romania (77,9%). Il Lussemburgo ha registrato la quota più bassa, pari all'1,9%.",
+  "title": "Chi rimane nel proprio paese durante le vacanze?",
+  "subtitle": "Nell'UE, il 53,3% dei viaggi di durata superiore a quattro notti è stato di tipo nazionale. La Grecia ha registrato la percentuale più alta di questi viaggi (85,6%), seguita dalla Romania (77,9%). Il Lussemburgo ha avuto la percentuale più bassa, pari all'1,9%.",
   "textNoteDescription": "Nota",
   "textNote": "Questa mappa visualizza la quota di viaggi nazionali sul totale dei viaggi personali della durata di quattro notti o più.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accedere ai dati",
+  "legend1": "Nessun dato disponibile",
+  "tooltipExtraInfoLabel": "clicca qui",
   "extraInfo_BE": "Totale viaggi: 11.671.223; quota nazionale: 11,25%",
   "extraInfo_BG": "Totale viaggi: 2.351.877; quota nazionale: 66,25%",
   "extraInfo_CZ": "Totale viaggi: 12.167.776; quota nazionale: 52,99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Totale viaggi: 4.637.001; quota nazionale: 39,69%",
   "extraInfo_FI": "Totale viaggi: 9.956.219; quota nazionale: 62,72%",
   "extraInfo_SE": "Totale viaggi: 25.281.134; quota nazionale: 52,96%",
-  "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "di tutti i viaggi",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "customUnitLabel": "di tutti i viaggi"
 }

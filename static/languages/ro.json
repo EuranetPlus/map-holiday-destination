@@ -1,11 +1,13 @@
 {
-  "title": "Unde mergem în vacanță?",
-  "subtitle": "La nivelul UE, 53,3% din călătoriile cu durata mai mare de patru nopți au fost interne. Grecia a înregistrat cea mai mare pondere, de 85,6%, urmată de România (77,9%). Luxemburgul a avut cea mai mică pondere, de 1,9%.",
+  "title": "Cine rămâne în propria țară în timpul vacanțelor?",
+  "subtitle": "În UE, 53,3% din călătoriile cu durata mai mare de patru nopți au fost interne. Grecia a avut cea mai mare proporție a acestor călătorii (85,6%), urmată de România (77,9%). Luxemburgul a avut cea mai mică proporție, de 1,9%.",
   "textNoteDescription": "Nota",
   "textNote": "Această hartă vizualizează ponderea călătoriilor interne în rândul tuturor călătoriilor personale cu o durată de patru sau mai multe nopți.",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
   "extraInfo_BE": "Total călătorii: 11.671.223; pondere internă: 11,25%",
   "extraInfo_BG": "Total călătorii: 2.351.877; pondere internă: 66,25%",
   "extraInfo_CZ": "Total călătorii: 12.167.776; pondere internă: 52,99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Total călătorii: 4.637.001; pondere internă: 39,69%",
   "extraInfo_FI": "Total călătorii: 9.956.219; pondere internă: 62,72%",
   "extraInfo_SE": "Total călătorii: 25.281.134; pondere internă: 52,96%",
-  "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "din toate călătoriile",
-  "tooltipExtraInfoLabel": "Click aici"
+  "customUnitLabel": "din toate călătoriile"
 }

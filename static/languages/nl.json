@@ -1,11 +1,13 @@
 {
-  "title": "Waar gaan we op vakantie naartoe?",
-  "subtitle": "Binnen de EU was 53,3% van de reizen van meer dan vier nachten binnenlands. Griekenland had het hoogste aandeel met 85,6%, gevolgd door Roemenië (77,9%). Luxemburg had het laagste aandeel met 1,9%.",
+  "title": "Wie blijft er tijdens de feestdagen in eigen land?",
+  "subtitle": "Binnen de EU was 53,3% van de reizen van meer dan vier nachten binnenlands. Griekenland had het hoogste percentage van deze reizen (85,6%), gevolgd door Roemenië (77,9%). Luxemburg had het laagste percentage met 1,9%.",
   "textNoteDescription": "Opmerking",
   "textNote": "Deze kaart visualiseert het aandeel binnenlandse reizen binnen alle privéreizen van vier nachten of langer.",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
+  "legend1": "Geen gegevens beschikbaar",
+  "tooltipExtraInfoLabel": "Klik hier",
   "extraInfo_BE": "Totaal aantal reizen: 11.671.223; aandeel binnenlands: 11,25%",
   "extraInfo_BG": "Totaal aantal reizen: 2.351.877; aandeel binnenlands: 66,25%",
   "extraInfo_CZ": "Totaal aantal reizen: 12.167.776; aandeel binnenlands: 52,99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Totaal aantal reizen: 4.637.001; aandeel binnenlands: 39,69%",
   "extraInfo_FI": "Totaal aantal reizen: 9.956.219; aandeel binnenlands: 62,72%",
   "extraInfo_SE": "Totaal aantal reizen: 25.281.134; aandeel binnenlands: 52,96%",
-  "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "van alle reizen",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "customUnitLabel": "van alle reizen"
 }

@@ -1,11 +1,13 @@
 {
-  "title": "Kam pojedeme na dovolenou?",
-  "subtitle": "V celé EU bylo 53,3 % cest trvajících déle než čtyři noci vnitrostátních. Nejvyšší podíl zaznamenalo Řecko s 85,6 %, následované Rumunskem (77,9 %). Nejnižší podíl mělo Lucembursko s 1,9 %.",
+  "title": "Kdo zůstává během prázdnin ve své vlastní zemi?",
+  "subtitle": "V celé EU bylo 53,3 % cest trvajících déle než čtyři noci vnitrostátních. Nejvyšší podíl těchto cest mělo Řecko (85,6 %), následované Rumunskem (77,9 %). Nejnižší podíl mělo Lucembursko s 1,9 %.",
   "textNoteDescription": "Poznámka",
   "textNote": "Tato mapa znázorňuje podíl vnitrostátních cest na všech soukromých cestách trvajících čtyři a více nocí.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
   "extraInfo_BE": "Celkem cest: 11 671 223; podíl vnitrostátních cest: 11,25 %",
   "extraInfo_BG": "Celkový počet cest: 2 351 877; podíl vnitrostátních cest: 66,25 %",
   "extraInfo_CZ": "Celkový počet cest: 12 167 776; podíl vnitrostátních cest: 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Celkový počet cest: 4 637 001; podíl vnitrostátních cest: 39,69 %",
   "extraInfo_FI": "Celkem cest: 9 956 219; podíl vnitrostátních cest: 62,72 %",
   "extraInfo_SE": "Celkový počet cest: 25 281 134; podíl vnitrostátních cest: 52,96 %",
-  "legend1": "Žádné údaje k dispozici",
-  "customUnitLabel": "všech cest",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "customUnitLabel": "všech cest"
 }

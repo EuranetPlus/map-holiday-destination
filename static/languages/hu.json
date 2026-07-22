@@ -1,11 +1,13 @@
 {
-  "title": "Hová menjünk nyaralni?",
-  "subtitle": "Az EU-ban a négy éjszakánál hosszabb utazások 53,3%-a belföldi volt. Görögországban volt a legmagasabb az arány 85,6%-kal, ezt követte Románia (77,9%). A legalacsonyabb Luxemburgban volt az arány 1,9%-kal.",
+  "title": "Ki marad a saját országában az ünnepek alatt?",
+  "subtitle": "Az EU-ban a négy éjszakánál hosszabb utazások 53,3%-a belföldi volt. Görögországban volt a legmagasabb az ilyen utazások aránya (85,6%), ezt követte Románia (77,9%). Luxemburgban volt a legalacsonyabb az arány, 1,9%.",
   "textNoteDescription": "Jegyzet",
   "textNote": "Ez a térkép a belföldi utazások arányát mutatja az összes négy éjszakás vagy annál hosszabb személyes utazáson belül.",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltipExtraInfoLabel": "Kattintson ide",
   "extraInfo_BE": "Összes utazás: 11 671 223; belföldi részesedés: 11,25%",
   "extraInfo_BG": "Összes utazás: 2 351 877; belföldi részesedés: 66,25%",
   "extraInfo_CZ": "Összes utazás: 12 167 776; belföldi részesedés: 52,99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Összes utazás: 4 637 001; belföldi részesedés: 39,69%",
   "extraInfo_FI": "Összes utazás: 9 956 219; belföldi részesedés: 62,72%",
   "extraInfo_SE": "Összes utazás: 25 281 134; belföldi részesedés: 52,96%",
-  "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "az összes utazás közül",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "customUnitLabel": "az összes utazás közül"
 }

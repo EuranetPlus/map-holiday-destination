@@ -1,11 +1,13 @@
 {
-  "title": "Où allons-nous en vacances ?",
-  "subtitle": "Dans l'ensemble de l'UE, 53,3 % des voyages de plus de quatre nuits étaient des voyages intérieurs. La Grèce affichait la part la plus élevée (85,6 %), suivie de la Roumanie (77,9 %). Le Luxembourg présentait la part la plus faible (1,9 %).",
+  "title": "Qui reste dans son pays pendant les vacances ?",
+  "subtitle": "Au sein de l'UE, 53,3 % des voyages de plus de quatre nuits étaient des voyages intérieurs. La Grèce affichait la proportion la plus élevée (85,6 %), suivie de la Roumanie (77,9 %). Le Luxembourg présentait la proportion la plus faible (1,9 %).",
   "textNoteDescription": "Note",
   "textNote": "Cette carte visualise la part des voyages intérieurs parmi tous les voyages personnels d'une durée de quatre nuits ou plus.",
   "textSourceDescription": "Source",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
+  "legend1": "Aucune donnée disponible",
+  "tooltipExtraInfoLabel": "Cliquez ici",
   "extraInfo_BE": "Nombre total de voyages : 11 671 223 ; part des voyages intérieurs : 11,25 %",
   "extraInfo_BG": "Nombre total de voyages : 2 351 877 ; part des voyages intérieurs : 66,25 %",
   "extraInfo_CZ": "Nombre total de voyages : 12 167 776 ; part des voyages intérieurs : 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Nombre total de voyages : 4 637 001 ; part des voyages intérieurs : 39,69 %",
   "extraInfo_FI": "Nombre total de voyages : 9 956 219 ; part des voyages intérieurs : 62,72 %",
   "extraInfo_SE": "Nombre total de voyages : 25 281 134 ; part des voyages intérieurs : 52,96 %",
-  "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "de tous les voyages",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "customUnitLabel": "de tous les voyages"
 }

@@ -1,11 +1,13 @@
 {
-  "title": "¿Adónde vamos de vacaciones?",
-  "subtitle": "En toda la UE, el 53,3 % de los viajes de más de cuatro noches fueron nacionales. Grecia registró el mayor porcentaje, con un 85,6 %, seguida de Rumanía (77,9 %). Luxemburgo tuvo el menor porcentaje, con un 1,9 %.",
+  "title": "¿Quién se queda en su propio país durante las vacaciones?",
+  "subtitle": "En toda la UE, el 53,3 % de los viajes de más de cuatro noches fueron nacionales. Grecia registró la mayor proporción de estos viajes (85,6 %), seguida de Rumanía (77,9 %). Luxemburgo presentó la menor proporción, con un 1,9 %.",
   "textNoteDescription": "Nota",
   "textNote": "Este mapa muestra la proporción de viajes nacionales entre todos los viajes personales de cuatro noches o más de duración.",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
+  "legend1": "No hay datos disponibles",
+  "tooltipExtraInfoLabel": "haga clic aquí",
   "extraInfo_BE": "Total de viajes: 11.671.223; porcentaje de viajes nacionales: 11,25 %",
   "extraInfo_BG": "Total de viajes: 2.351.877; porcentaje de viajes nacionales: 66,25 %",
   "extraInfo_CZ": "Total de viajes: 12.167.776; porcentaje de viajes nacionales: 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Total de viajes: 4.637.001; porcentaje de viajes nacionales: 39,69%",
   "extraInfo_FI": "Total de viajes: 9.956.219; porcentaje de viajes nacionales: 62,72%",
   "extraInfo_SE": "Total de viajes: 25.281.134; porcentaje de viajes nacionales: 52,96 %",
-  "legend1": "No hay datos disponibles",
-  "customUnitLabel": "de todos los viajes",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "customUnitLabel": "de todos los viajes"
 }

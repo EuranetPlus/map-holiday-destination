@@ -1,11 +1,13 @@
 {
-  "title": "Kam gremo na počitnice?",
-  "subtitle": "V celotni EU je bilo 53,3 % potovanj, daljših od štirih nočitev, domačih. Grčija je zabeležila najvišji delež, 85,6 %, sledila ji je Romunija (77,9 %). Najnižji delež je imel Luksemburg, 1,9 %.",
+  "title": "Kdo ostane v svoji državi med prazniki?",
+  "subtitle": "V celotni EU je bilo 53,3 % potovanj, daljših od štirih nočitev, domačih. Največji delež teh potovanj je imela Grčija (85,6 %), sledila ji je Romunija (77,9 %). Najnižji delež je imel Luksemburg, 1,9 %.",
   "textNoteDescription": "Opomba",
   "textNote": "Ta zemljevid prikazuje delež domačih potovanj med vsemi osebnimi potovanji, ki trajajo štiri noči ali več.",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
   "extraInfo_BE": "Skupno število potovanj: 11.671.223; delež domačih potovanj: 11,25 %",
   "extraInfo_BG": "Skupno število potovanj: 2.351.877; delež domačih potovanj: 66,25 %",
   "extraInfo_CZ": "Skupno število potovanj: 12.167.776; delež domačih potovanj: 52,99 %",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Skupno število potovanj: 4.637.001; delež domačih potovanj: 39,69 %",
   "extraInfo_FI": "Skupno število potovanj: 9.956.219; delež domačih potovanj: 62,72 %",
   "extraInfo_SE": "Skupno število potovanj: 25.281.134; delež domačih potovanj: 52,96 %",
-  "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "vseh potovanj",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "customUnitLabel": "vseh potovanj"
 }

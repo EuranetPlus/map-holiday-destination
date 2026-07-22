@@ -1,11 +1,13 @@
 {
-  "title": "Cá rachaimid ar saoire?",
-  "subtitle": "Ar fud an AE, ba thurais intíre iad 53.3% de na turais a mhair níos mó ná ceithre oíche. Bhí an sciar is airde ag an nGréig ag 85.6%, agus an Rómáin ina diaidh sin (77.9%). Bhí an sciar is ísle ag Lucsamburg ag 1.9%.",
+  "title": "Cé a fhanann ina dtír féin le linn na laethanta saoire?",
+  "subtitle": "Ar fud an AE, ba thurais intíre iad 53.3% de na turais a mhair níos mó ná ceithre oíche. Bhí an cion is airde de na turais seo sa Ghréig (85.6%), agus an Rómáin ina diaidh sin (77.9%). Bhí an cion is ísle ag Lucsamburg ag 1.9%.",
   "textNoteDescription": "Nóta",
   "textNote": "Léiríonn an léarscáil seo sciar na dturas intíre i measc na dturas pearsanta uile a mhaireann ceithre oíche nó níos mó.",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "legend1": "Níl aon sonraí ar fáil",
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
   "extraInfo_BE": "Líon iomlán na dturas: 11,671,223; sciar intíre: 11.25%",
   "extraInfo_BG": "Líon iomlán na dturas: 2,351,877; sciar intíre: 66.25%",
   "extraInfo_CZ": "Líon iomlán na dturas: 12,167,776; sciar intíre: 52.99%",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "Líon iomlán na dturas: 4,637,001; sciar intíre: 39.69%",
   "extraInfo_FI": "Líon iomlán na dturas: 9,956,219; sciar intíre: 62.72%",
   "extraInfo_SE": "Líon iomlán na dturas: 25,281,134; sciar intíre: 52.96%",
-  "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "de na turais uile",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "customUnitLabel": "de na turais uile"
 }
